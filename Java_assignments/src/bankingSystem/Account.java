@@ -1,4 +1,4 @@
-package assignment_4;
+package bankingSystem;
 
 public abstract class Account {
 	protected String accountNumber;

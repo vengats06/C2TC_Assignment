@@ -1,4 +1,4 @@
-package assignment_4;
+package bankingSystem;
 public class Bank {
 	private static int totalAccounts=0;
 	
